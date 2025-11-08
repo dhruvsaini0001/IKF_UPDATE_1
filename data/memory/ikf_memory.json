@@ -1,0 +1,32 @@
+{
+  "persona_name": "IKF",
+  "preferred_hashtags": [
+    "#BrandStorytelling",
+    "#DigitalMarketing",
+    "#CreativeAgency",
+    "#ContentMarketing",
+    "#MarketingStrategy"
+  ],
+  "recurring_themes": [
+    "brand storytelling",
+    "creative execution",
+    "client success",
+    "digital strategy",
+    "results-driven marketing"
+  ],
+  "banned_phrases": [
+    "synergy",
+    "touch base",
+    "circle back"
+  ],
+  "style_rules": [
+    "Lead with impact and real examples",
+    "Use concrete results and metrics",
+    "Focus on client success stories",
+    "End with a clear call to action"
+  ],
+  "typical_structure": "hook → perspective → illustration → reflection",
+  "generated_posts": [],
+  "created_at": "2025-11-06T21:45:47.361237",
+  "updated_at": "2025-11-06T21:45:47.361260"
+}
